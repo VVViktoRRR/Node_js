@@ -1,0 +1,4 @@
+
+NAME:Viktor, 
+Age:37, 
+CITY:Odessa

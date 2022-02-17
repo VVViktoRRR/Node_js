@@ -1,0 +1,4 @@
+
+NAME:Vova, 
+Age:30, 
+CITY:Kyiv
