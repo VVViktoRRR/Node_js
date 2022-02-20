@@ -2,7 +2,7 @@
   "name": "node_lesson_2",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "app_lesson_2.js",
   "dependencies": {
     "express": "^4.17.3",
     "express-handlebars": "^6.0.2",
